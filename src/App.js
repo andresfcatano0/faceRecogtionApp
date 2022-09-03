@@ -4,9 +4,12 @@ import ImageLinkForm from "./components/ImageLinkForm/ImageLinkForm";
 import Rank from "./components/Rank/Rank";
 import './App.css';
 
+
+
 function App() {
   return (
     <div className="App">
+
       <Navigation />
       <Logo />
       <Rank />
